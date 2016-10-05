@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>c:/users/tmtri/documents/visual studio 2015/Projects/DemoPixelShader/DemoPixelShader/Content/MyEffect.fx</SourceFile>
+  <SourceTime>2016-10-05T08:53:53.8578222+07:00</SourceTime>
+  <DestFile>c:/users/tmtri/documents/visual studio 2015/Projects/DemoPixelShader/DemoPixelShader/Content/bin/Windows/MyEffect.xnb</DestFile>
+  <DestTime>2016-10-05T08:54:00.5209223+07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2016-03-30T13:36:08+07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T13:36:08+07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
